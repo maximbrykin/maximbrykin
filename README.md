@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning python, js.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - via email.
+- 📫 How to reach me - via email :)
 
 <!---
 maximbrykin/maximbrykin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
