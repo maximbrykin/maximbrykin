@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @maximbrykin
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning python, js 
+- 👋 Hi, I’m @maximbrykin.
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning python, js.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - via email
 
